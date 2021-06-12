@@ -1,3 +1,6 @@
+#Counts the number of each specific nucleotides in a given DNA sequence.
+#Outputs in the order of adenine, cytosine, guanine, and thymine.
+
 sequence = input("Enter DNA sequence: ")
 
 a = 0;
