@@ -1,4 +1,4 @@
-#Converts DNA sequence into RNA sequence
+# Converts DNA sequence into RNA sequence
 
 dna_sequence = input("Enter DNA sequence: ")
 
